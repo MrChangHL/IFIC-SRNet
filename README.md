@@ -1,6 +1,7 @@
 Blind Super-Resolution Based on Interframe Information Compensation for Satellite Video (IEEE J-STARS 2025)
 
 📖[Paper](https://ieeexplore.ieee.org/document/11130431)🎁[Code](https://github.com/MrChangHL/IFIC-SRNet)
+
 Authors:Hongliang Chang, Haijiang Sun, Jinchang Ren, Qiaoyuan Liu, Xiaowen Zhang
 
 Abstract
@@ -9,4 +10,5 @@ Super-Resolution (SR) of satellite video has long been a critical research direc
 
 Environment
 Cuda 11.8
-Pytorch 
+Pytorch 2.0
+Python 3.8
